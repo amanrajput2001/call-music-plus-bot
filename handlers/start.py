@@ -22,13 +22,13 @@ async def start(_, message: Message):
             await db.add_user(chat_id)
             await Client.send_message(
         chat_id=LOG_CHANNEL,
-        text=f"**📢 News ** \n#New_Music_Lover **Started To Using Me!** \n\nFirst Name: `{message.from_user.first_name}` \nUser ID: `{message.from_user.id}` \nProfile Link: [{message.from_user.first_name}](tg://user?id={message.from_user.id})",
+        text=f"**📢 News ** \n#New_Music_Lover **Started To Using Me! made by @itzamanrajput** \n\nFirst Name: `{message.from_user.first_name}` \nUser ID: `{message.from_user.id}` \nProfile Link: [{message.from_user.first_name}](tg://user?id={message.from_user.id})",
         parse_mode="markdown"
     )      
     await message.reply_text(
         f"""<b>Hello {message.from_user.mention} 🤖 !</b>
         
-<b>I'm  Yakari 2.O version  Music Bot! A Powerful Bot to Play Music in Your Group Voice Chat 😇! </b>
+<b>I'm  AMAN MUSIC 2.O version  Music Bot! A Powerful Bot to Play Music in Your Group Voice Chat 😇! </b>
 
 <b>Also I have more features! Please hit on **/help** to see them 👨‍💻 !</b>
 
@@ -45,7 +45,7 @@ async def start(_, message: Message):
                         "🛠  Help Menu 🛠", callback_data="cbhelpmenu"
                     ),
                     InlineKeyboardButton(
-                        "⚒ Create your one 📦", url="https://www.youtube.com/watch?v=G58pr-Ro5aY&t=37s&pp=sAQA"
+                        "⚒ Create your one 📦", url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rCYCEpaDCEfmA6KQeOYGRjVFoRCTxsyuRzCxBPCf-U5WeTaoNOW0bKs&s=10"
                     )
                 ],
                 [
@@ -53,7 +53,7 @@ async def start(_, message: Message):
                         "🔔  My Update Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
                     ),
                     InlineKeyboardButton(
-                        "💬 Support Group ", url="https://t.me/slbotzone"
+                        "💬 Support Group ", url="https://t.me/himu_ki_jaan"
                     )
                 ]
             ]
@@ -135,10 +135,10 @@ Special Thanks 💝 For all of first code owners 😍</b> !
 
 ✅ Credits To,
 
-<b>1️⃣ <a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA">sl geek show youtube </a></b> -  (❤️) !
-<b>2️⃣ Left-TG |『 刀乇ﾒﾑ 乃のｲ丂 』</b> - (First code owner ❤️)
-<b>3️⃣ N.M.Dinura Uthsara Nikalansuriya</b> - ( Heroku supporter👨‍💻)
-<b>4️⃣ AbirHasan2005</b>
+<b>1️⃣ <a href="https://t.me/fUckEd_uP_bY_LiFE"> My bro </a></b> -  (❤️) !
+<b>2️⃣ Left tg |『 @A_B_HA_Y 』</b> - (Odu bro ❤️)
+<b>3️⃣ serching </b> - ( Herbroku supporter👨‍💻)
+<b>4️⃣ </b>
 <b>5️⃣ DevsExpo</b>
 <b>6️⃣ TeamDaisyX</b>
 <b>7️⃣ Vivek-Tp</b>- ( Fsub & more help ❤️❤️)
