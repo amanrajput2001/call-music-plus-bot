@@ -138,10 +138,7 @@ Special Thanks 💝 For all of first code owners 😍</b> !
 <b>1️⃣ <a href="https://t.me/fUckEd_uP_bY_LiFE"> My bro </a></b> -  (❤️) !
 <b>2️⃣ Left tg |『 @A_B_HA_Y 』</b> - (Odu bro ❤️)
 <b>3️⃣ serching </b> - ( Herbroku supporter👨‍💻)
-<b>4️⃣ </b>
-<b>5️⃣ DevsExpo</b>
-<b>6️⃣ TeamDaisyX</b>
-<b>7️⃣ Vivek-Tp</b>- ( Fsub & more help ❤️❤️)
+
 
 Made  ❤️ by **@{UPDATES_CHANNEL}**""",
         reply_markup=InlineKeyboardMarkup(
@@ -153,7 +150,7 @@ Made  ❤️ by **@{UPDATES_CHANNEL}**""",
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Support Group", url="https://t.me/slbotzone"
+                        "💬 Support Group", url="https://t.me/himu_ki_jaan"
                     )
                 ]
             ]
