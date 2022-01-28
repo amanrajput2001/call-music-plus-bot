@@ -14,12 +14,12 @@
 
 <h3><details>
   <summary><b>Don't Open this path </b></summary>
-  <p><a href="https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA" title="How to create Bot useing python ">How to create Bot useing python</a>
+  <p><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4rCYCEpaDCEfmA6KQeOYGRjVFoRCTxsyuRzCxBPCf-U5WeTaoNOW0bKs&s=10" title="How to create Bot useing python ">How to create Bot useing python</a>
  </details></h3>
  
  <h3><details>
   <summary><b> Screen shot of this bot📸  </b></summary>
-  <p align="left"><a href="https://t.me/szrosebot"><img src="https://telegra.ph/file/881f252144f5708ace52b.jpg" width="200"></a></p>
+  <p align="left"><a href="https://t.me/himu_ki_jaan"><img src="https://telegra.ph/file/881f252144f5708ace52b.jpg" width="200"></a></p>
  </details></h3>
  
  
