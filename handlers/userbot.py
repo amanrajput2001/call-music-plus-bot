@@ -87,7 +87,7 @@ async def getlogs(client: NEXAUB, message: Message, app_):
       return # Next level logic lol
     logmsg = await message.edit_text("`PM Message Logs Module is Starting Now...`")
     await asyncio.sleep(2) # Lmao
-    chat_pic = "cache/NexaUB.jpg"
+    chat_pic = "cache/20210923_100446.jpg"
     try:
       await logmsg.edit("`Creating Private Group Now...`!")
       pmchat = await NEXAUB.create_group(f" Userbot's PM Logs", BOT_OWNER)
